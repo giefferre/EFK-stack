@@ -53,6 +53,8 @@ Please note: in this example Fluentd will run on port `8080` instead of the defa
 
 This settings has been changed to show how to configure Fluentd to listen on a different port.
 
+Kibana is exposed on port `5601`.
+
 ### Testing with sample data
 
 If you are running macOS and you want to send sample data to test the EFK stack, you'll need [RESTed][rested].
